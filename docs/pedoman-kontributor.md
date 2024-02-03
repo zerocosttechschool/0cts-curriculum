@@ -11,7 +11,7 @@ sidebar_position: 0
 - Satu lagi, tolong gunakan hati yang senang dan tulus ketika berkontribusi, karena itu sangatlah penting. :)
 
 ## Pedoman Pull Request (PR)
-- Fork repositori dan buat cabang baru untuk kontribusimu.
+- Fork repositori dan / atau buat branch baru untuk kontribusimu.
 - Jelaskan dengan jelas tujuan perubahanmu di judul dan deskripsi PR.
 - Pastikan perubahanmu didokumentasikan dengan baik dan mudah dipahami.
 - Ikuti struktur dan format dokumentasi yang sudah ada.
