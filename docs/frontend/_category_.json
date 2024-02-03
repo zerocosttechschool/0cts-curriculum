@@ -1,0 +1,8 @@
+{
+  "label": "Frontend",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Frontend adalah bagian dari sebuah aplikasi atau website yang berinteraksi langsung dengan pengguna. Ini mencakup semua elemen yang terlihat dan dirasakan oleh pengguna, seperti antarmuka pengguna, tombol, formulir, dan tata letak halaman. Frontend biasanya dikembangkan menggunakan bahasa pemrograman seperti HTML, CSS, dan JavaScript."
+  }
+}
