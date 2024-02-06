@@ -4,6 +4,7 @@ Berikut adalah daftar kurikulum kami, yang didasarkan pada [roadmap.sh](https://
 - Fullstack 
 - Frontend (koordinator : [FajarFE](https://github.com/FajarFE))
 - Backend
+- Docker (Koordinator : [Baharsah](https://github.com/baharsah))
 - DevOps
 - Artificial Intelligence
 - Machine Learning
